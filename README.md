@@ -1,2 +1,2 @@
 # deep_learning
-# notes of deep learning via self-learn
+# self-learn notes of deep learning
